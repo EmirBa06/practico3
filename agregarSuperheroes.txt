@@ -1,0 +1,15 @@
+[
+      {
+    "id": 4,
+    "nombreSuperheroe": "Wonder Woman",
+    "nombreReal": "Diana Prince",
+    "nombreSociedad": "Heroína / Embajadora",
+    "edad": 5000,
+    "planetaOrigen": "Themyscira (Isla Paraíso)",
+    "debilidad": "Perder sus brazaletes",
+    "poder": ["Super fuerza", "Vuelo", "Agilidad sobrehumana", "Inmortalidad"],
+    "habilidadEspecial": "Lazo de la verdad",
+    "aliado": ["Spiderman", "Ironman"],
+    "enemigo": ["Ares", "Cheetah"]
+  }
+]

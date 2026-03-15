@@ -1,0 +1,26 @@
+{
+  "name": "practico3",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "gestion tp 3",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmirBa06/practico3.git"
+  },
+  "keywords": [
+    "node3"
+  ],
+  "author": "Emir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmirBa06/practico3/issues"
+  },
+  "homepage": "https://github.com/EmirBa06/practico3#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
